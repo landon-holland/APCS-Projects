@@ -7,9 +7,37 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1Wz0MSO9RuReEKBZMkw9Rq0XtHA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AbstractEmployee" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TextAnalyzerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextAnalyzerTester" />
+      <module name="TextAnalyzer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TextAnalyzerTester" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -23,5 +51,55 @@
       <updated>1580137067857</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1580138293973">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="569" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1580138293973" />
+    <state x="581" y="191" key="FileChooserDialogImpl" timestamp="1580826279321">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="581" y="191" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1580826279321" />
+    <state width="1558" height="211" key="GridCell.Tab.0.bottom" timestamp="1581431301080">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1558" height="226" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1581430817691">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1558" height="226" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1600.870@0.0.1600.870" timestamp="1581430817691" />
+    <state width="1558" height="211" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1581431301080" />
+    <state width="1558" height="211" key="GridCell.Tab.0.center" timestamp="1581431301075">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1558" height="226" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1581430817691">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1558" height="226" key="GridCell.Tab.0.center.inPresentationMode/0.0.1600.870@0.0.1600.870" timestamp="1581430817691" />
+    <state width="1558" height="211" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1581431301075" />
+    <state width="1558" height="211" key="GridCell.Tab.0.left" timestamp="1581431301075">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1558" height="226" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1581430817691">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1558" height="226" key="GridCell.Tab.0.left.inPresentationMode/0.0.1600.870@0.0.1600.870" timestamp="1581430817691" />
+    <state width="1558" height="211" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1581431301075" />
+    <state width="1558" height="211" key="GridCell.Tab.0.right" timestamp="1581431301079">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1558" height="226" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1581430817691">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1558" height="226" key="GridCell.Tab.0.right.inPresentationMode/0.0.1600.870@0.0.1600.870" timestamp="1581430817691" />
+    <state width="1558" height="211" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1581431301079" />
+    <state x="225" y="56" key="new project wizard" timestamp="1581431299065">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="225" y="56" key="new project wizard/0.0.1600.870@0.0.1600.870" timestamp="1581431299065" />
+    <state x="463" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1580743104597">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="463" y="183" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1580743104597" />
   </component>
 </project>

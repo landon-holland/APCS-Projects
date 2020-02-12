@@ -1,4 +1,4 @@
-abstract public class Employee {
+public abstract class Employee {
 // Protected Instance Variables:  
    protected String name;  
    protected double rate;  

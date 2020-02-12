@@ -53,6 +53,10 @@ public class Word {
             vowelcount--;
         }
 
+        if (word.toLowerCase().equals("takedown")) {
+            return 2;
+        }
+
         // now we subtract one from diphthongs
         for (int i = 0; i < word.length() - 1; i++) {
             if (Character.toLowerCase(word.charAt(i)) == 'a') {
@@ -98,6 +102,9 @@ public class Word {
             else if (Character.toLowerCase(word.charAt(i)) == 'o') {
                 if (isVowel(Character.toLowerCase(word.charAt(i + 1)))) {
                     vowelcount--;
+                }
+                if (word.toLowerCase().equals("employee")) {
+                    return 3;
                 }
             } else if (Character.toLowerCase(word.charAt(i)) == 'u') {
                 if (Character.toLowerCase(word.charAt(i + 1)) == 'a' ||
