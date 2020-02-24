@@ -99,7 +99,37 @@ public class Recursion {
         }
     }
 
-    public static boolean isPallindrome(String s) {
+    public static boolean isPalindrome(String s) {
         return (s.equals(recReverse(s)));
+    }
+
+    public static int iterLettersIn(String s) {
+        int c = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (Character.isLetter(s.charAt(i))) {
+                c++;
+            }
+        }
+
+        return c;
+    }
+
+    public static int recLettersIn(String s) {
+        if (s.length() == 1) {
+            if (Character.isLetter(s.charAt(0))) {
+                return 1;
+            }
+            else {
+                return 0;
+            }
+        }
+        else {
+            if (Character.isLetter(s.charAt(0))) {
+                return 1 + recLettersIn(s.substring(1));
+            }
+            else {
+                return recLettersIn(s.substring(1));
+            }
+        }
     }
 }
