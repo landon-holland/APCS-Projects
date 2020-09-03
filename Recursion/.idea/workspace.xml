@@ -22,6 +22,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Network Files/APLabs20142015/magpie/magpieLab/Magpie Code/activity2" />
   </component>
   <component name="RunManager">
     <configuration name="RecursionTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -55,21 +57,41 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="481" y="172" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.870@0.0.1600.870" timestamp="1582036841599" />
-    <state width="1558" height="226" key="GridCell.Tab.0.bottom" timestamp="1582123322033">
+    <state x="581" y="190" key="FileChooserDialogImpl" timestamp="1582727994751">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1558" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1582123322033" />
-    <state width="1558" height="226" key="GridCell.Tab.0.center" timestamp="1582123322032">
+    <state x="581" y="190" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1582727994751" />
+    <state width="1558" height="178" key="GridCell.Tab.0.bottom" timestamp="1582821515023">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1558" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1582123322032" />
-    <state width="1558" height="226" key="GridCell.Tab.0.left" timestamp="1582123322032">
+    <state width="1558" height="226" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1582820381373">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1558" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1582123322032" />
-    <state width="1558" height="226" key="GridCell.Tab.0.right" timestamp="1582123322032">
+    <state width="1558" height="226" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1600.870@0.0.1600.870" timestamp="1582820381373" />
+    <state width="1558" height="178" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1582821515023" />
+    <state width="1558" height="178" key="GridCell.Tab.0.center" timestamp="1582821515023">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1558" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1582123322032" />
+    <state width="1558" height="226" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1582820381373">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1558" height="226" key="GridCell.Tab.0.center.inPresentationMode/0.0.1600.870@0.0.1600.870" timestamp="1582820381373" />
+    <state width="1558" height="178" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1582821515023" />
+    <state width="1558" height="178" key="GridCell.Tab.0.left" timestamp="1582821515021">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1558" height="226" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1582820381372">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1558" height="226" key="GridCell.Tab.0.left.inPresentationMode/0.0.1600.870@0.0.1600.870" timestamp="1582820381372" />
+    <state width="1558" height="178" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1582821515021" />
+    <state width="1558" height="178" key="GridCell.Tab.0.right" timestamp="1582821515023">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1558" height="226" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1582820381373">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1558" height="226" key="GridCell.Tab.0.right.inPresentationMode/0.0.1600.870@0.0.1600.870" timestamp="1582820381373" />
+    <state width="1558" height="178" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1582821515023" />
   </component>
 </project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="GridWorldChess">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/GridWorldChess" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/GridWorldChess/GridWorldChess/src" />
+      <root url="file://$PROJECT_DIR$/GridWorldChess/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/GridWorldChess" recursive="false" />
+  </library>
+</component>
